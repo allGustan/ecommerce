@@ -1,0 +1,71 @@
+.cabecalho{
+	border: 2px solid;
+	position: fixed;
+	left: 40px;
+	right: 40px;
+	top: 5px;
+	z-index: -1;
+}
+
+.logo{
+	left: 2px;
+	top: 7px;
+	float: left;
+}
+
+.login{
+	border: 2px dashed;
+	right: 15px;
+	top: 7px; 
+	float: right;
+}
+
+#login{
+	text-align: right;
+	text-indent: left;
+}
+
+.corpo{
+	border: 2px dashed;
+	position: absolute;
+	left: 50px;
+	top: 190px;
+	right: 50px;
+	bottom: 50px;
+}
+
+
+
+
+
+.feminino{
+	border: 2px dashed;
+	position: absolute;
+	padding: 50px;
+}
+
+.masculino{
+	border: 2px dashed;
+	position: absolute;
+	padding: 50px;
+}
+
+.outros{
+	border: 2px dashed;
+	position: absolute;
+	padding: 50px;
+}
+
+
+
+.usuario{
+
+}
+
+.produto{
+
+}
+
+.pagamento{
+
+}
